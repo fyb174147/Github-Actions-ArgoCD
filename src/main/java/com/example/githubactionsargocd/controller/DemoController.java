@@ -8,6 +8,6 @@ public class DemoController {
 
     @GetMapping("/")
     public String hello() {
-        return "Xin chào! Đây là Spring Boot với ArgoCD v2.";
+        return "Xin chào! Đây là Spring Boot với ArgoCD v3.";
     }
 }
